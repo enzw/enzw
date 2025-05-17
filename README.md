@@ -20,7 +20,7 @@ I enjoy creating intuitive user interfaces and bringing ideas to life through co
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzw&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzw&show_icons=true&theme=gruvbox) ![trophy](https://github-profile-trophy.vercel.app/?username=enzw&theme=gruvbox)
 
 ---
 
