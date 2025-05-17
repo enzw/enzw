@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm Enzokulin Samsidan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&width=435&lines=Hi+there!+I'm+Enzokulin+Samsidan" alt="Typing SVG" />
+</p>
 
 💻 **Informatics Student**  
 🎵 **Music Enthusiast**  
