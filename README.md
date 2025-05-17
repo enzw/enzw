@@ -14,19 +14,32 @@ I enjoy creating intuitive user interfaces and bringing ideas to life through co
 ---
 
 ## 🎯 Interests
-- 👨‍💻 Programming
-- 🎨 UI/UX Design
-- 🌐 Front-End Development
+
+- 👨‍💻 Programming  
+- 🎨 UI/UX Design  
+- 🌐 Front-End Development  
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzw&show_icons=true&theme=gruvbox) ![trophy](https://github-profile-trophy.vercel.app/?username=enzw&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzw&layout=compact&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=enzw&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enzw&show_icons=true&theme=gruvbox" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzw&layout=compact&theme=radical" width="47%" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enzw&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=enzw&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,9 +47,9 @@ I enjoy creating intuitive user interfaces and bringing ideas to life through co
 ---
 
 ## 📫 Contact Me
+
 📧 Email: [absasamsidan@gmail.com](mailto:absasamsidan@gmail.com)
 
 ---
 
-> “Code is poetry, and I’m learning to write it beautifully.”
-
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
