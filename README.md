@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzw)](https://github.com/enzw/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzw&hide=contribs,prs)
 <!--
 **enzw/enzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
