@@ -39,8 +39,8 @@ I enjoy creating intuitive user interfaces and bringing ideas to life through co
 ## 🛠 Tech Stack
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Java)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Python)
 
 ---
 
