@@ -21,10 +21,7 @@ I enjoy creating intuitive user interfaces and bringing ideas to life through co
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzw&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzw&layout=compact&theme=radical" width="47%" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=enzw&color=blue)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=enzw&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true" />
