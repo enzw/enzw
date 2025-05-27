@@ -26,7 +26,7 @@ I enjoy creating intuitive user interfaces and bringing ideas to life through co
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=enzw&theme=radical&hide_border=true&" />
   <img src="https://github-readme-stats.vercel.app/api?username=enzw&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzw&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzw&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=enzw&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
