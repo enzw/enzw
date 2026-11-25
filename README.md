@@ -1,6 +1,6 @@
 # Enzokulin Samsidan
 
-![Profile Banner]([https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg](https://ibb.co.com/6JmWMh3H))
+![Profile Banner](https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Informatics+Student;Product+Designer;Web+Developer" alt="Introduction" />
