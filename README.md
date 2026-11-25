@@ -1,6 +1,6 @@
 # Enzokulin Samsidan
 
-![Profile Banner](https://i.ibb.co.com/k6xS7nR4/d4e88c30-5272-44f8-b916-13b8ba3ddb32.png)
+<img src="https://i.ibb.co.com/k6xS7nR4/d4e88c30-5272-44f8-b916-13b8ba3ddb32.png" width="100%" alt="Profile Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Informatics+Student;Product+Designer;Web+Developer" alt="Introduction" />
