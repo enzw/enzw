@@ -1,9 +1,9 @@
 # Enzokulin Samsidan
 
-https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg
+![Profile Banner](https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Informatics+Student;Web+Developer;UI%2FUX+Enthusiast" alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Informatics+Student;Product+Designer;Web+Developer" alt="Introduction" />
 </p>
 
 <p align="center">
@@ -26,17 +26,27 @@ I enjoy building modern web applications, crafting intuitive user experiences, a
 
 My approach is simple: create things that are useful, thoughtful, and well-crafted.
 
+---
+
 ## Focus Areas
 
-- **Software Development** — Building functional and maintainable applications.
-- **UI/UX Design** — Designing intuitive and user-centered digital experiences.
-- **Front-End Development** — Turning ideas and designs into responsive interfaces.
+**Product Design**
+
+Crafting intuitive, user-centered digital experiences from concept to interface.
+
+**Product Development**
+
+Building functional, scalable, and well-crafted digital products.
+
+---
 
 ## Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,laravel,php,mongodb,postgres,git,figma&theme=light" alt="Technologies and tools" />
 </p>
+
+---
 
 ## GitHub Activity
 
@@ -49,14 +59,10 @@ My approach is simple: create things that are useful, thoughtful, and well-craft
 
 ## Connect
 
-<p>
-  <a href="https://enzokulin.framer.website/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/enzw">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:absasamsidan@gmail.com">Email</a>
-</p>
+- [Portfolio](https://enzokulin.framer.website/)
+- [GitHub](https://github.com/enzw)
+- [Email](mailto:absasamsidan@gmail.com)
 
-<p align="center">
-  <sub>Designed with simplicity in mind.</sub>
-</p>
+---
+
+<sub>Designed with simplicity in mind.</sub>
